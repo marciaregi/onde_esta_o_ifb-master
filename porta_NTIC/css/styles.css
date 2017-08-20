@@ -482,5 +482,36 @@ width: 150px;
 }
 */
 
+/*lista*/
+h1{
+    font-size:4.5em;
+}
 
+p{
+ font-weight:400;
+ font-size:3em;   
+}
 
+ .img-quadrata {
+       border-radius:50%;
+       width:250px;
+       height:250px;
+}
+
+h3{
+      font-weight:800;
+        color:#f0ad4e;
+        font-size:2em;  
+}
+small{
+    text-align:center;
+        font-size:1.5em; 
+        color:gray;
+}
+/*Fim */
+.col-xs-12{
+    position: relative;
+    min-height: 1px;
+    padding-left: 1px;
+    padding-right: 35px;
+}
