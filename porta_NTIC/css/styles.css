@@ -584,12 +584,12 @@ width: 150px;
 
 /*lista*/
 h1{
-    font-size:4.5em;
+    font-size:2.5em;
 }
 
 p{
  font-weight:400;
- font-size:3em;   
+ font-size:1em;   
 }
 .img-quadrata {
   border-radius:50%;
